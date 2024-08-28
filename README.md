@@ -17,4 +17,4 @@ To deploy and get started with this code, the following pre-reqs are needed
 
 ### Support
 
-This project is not supported by Dynatrace, and is only to be used as a **reference** to enable TCP tracing in your own systems. There should be no expectation to receive support or that code can be copy-pasted into your source code and being to work.
+This project is not supported by Dynatrace, and is only to be used as a **reference** to enable TCP tracing in your own systems. There should be no expectation to receive support or that code can be copy-pasted into your source code and begin to work.
